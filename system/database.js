@@ -104,8 +104,8 @@ module.exports = (m) => {
          error: [],
          pluginDisable: [],
          groupmode: false,
-         sk_pack: 'Sticker',
-         sk_author: '@neoxrs',
+         sk_pack: 'Sticker dari',
+         sk_author: 'Bot Adi',
          self: false,
          mimic: [],
          multiprefix: true,
@@ -113,8 +113,8 @@ module.exports = (m) => {
          toxic: ["ajg", "ajig", "anjas", "anjg", "anjim", "anjing", "anjrot", "anying", "asw", "autis", "babi", "bacod", "bacot", "bagong", "bajingan", "bangsad", "bangsat", "bastard", "bego", "bgsd", "biadab", "biadap", "bitch", "bngst", "bodoh", "bokep", "cocote", "coli", "colmek", "comli", "dajjal", "dancok", "dongo", "fuck", "gelay", "goblog", "goblok", "guoblog", "guoblok", "hairul", "henceut", "idiot", "itil", "jamet", "jancok", "jembut", "jingan", "kafir", "kanjut", "kanyut", "keparat", "kntl", "kontol", "lana", "loli", "lont", "lonte", "mancing", "meki", "memek", "ngentod", "ngentot", "ngewe", "ngocok", "ngtd", "njeng", "njing", "njinx", "oppai", "pantek", "pantek", "peler", "pepek", "pilat", "pler", "pornhub", "pucek", "puki", "pukimak", "redhub", "sange", "setan", "silit", "telaso", "tempek", "tete", "titit", "toket", "tolol", "tomlol", "tytyd", "wildan", "xnxx"],
          online: true,
          onlyprefix: '+',
-         owners: ['6285887776722', '994408364923'],
-         msg: 'An automated system (WhatsApp Bot) that can help to do something, search and get data / information only through WhatsApp.\n\n◦ *Database* : PostgreSQL\n◦ *Library* : Baileys v4.4.0\n◦ *Rest API* : https://api.neoxr.my.id\n◦ *Source* : https://github.com/neoxr/neoxr-bot\n\nIf you find an error or want to upgrade premium plan contact the owner.'     
+         owners: ['6289504585790'],
+         msg: 'An automated system (WhatsApp Bot) that can help to do something, search and get data / information only through WhatsApp.\n\n◦ *Database* : MongoDB\n◦ *Library* : Baileys v4.4.0\n◦ *Rest API* : https://api.adiofficial.xyz\n\nIf you find an error or want to upgrade premium plan contact the owner.'     
       }
    }
 }
